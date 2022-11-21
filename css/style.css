@@ -1,3 +1,27 @@
+/*flex*/
+.left-flex-block {
+	width: 250px;
+	height: 200px;
+	background: red;
+}
+.center-flex-block {
+	width: 250px;
+	height: 200px;
+	background: yellow;
+	margin: 0 30px;
+}
+.right-flex-block {
+	width: 250px;
+	height: 200px;
+	background: green;
+}
+.flex-wraper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
 .latinuri-relatiuri {
 	 font-family: 'Montserrat Black';
 }
