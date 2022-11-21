@@ -1,0 +1,23 @@
+.latinuri-relatiuri {
+	 font-family: 'Montserrat Black';
+}
+.container {
+	width: 1088px;
+	background: yellow;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin: 0 auto;
+}
+.left-block {
+	width: 536px;
+	height: 190px;
+	background: lightblue;
+	display: inline-block;
+	margin-right: 16px;
+}
+.right-block {
+	width: 536px;
+	height: 190px;
+	background: grey;
+	display: inline-block;
+}
